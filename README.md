@@ -16,5 +16,7 @@ Acctually I wanna tell you a story , A story about two best friend Doll & Rats .
 
 **Key Terms:** First small paper with no gift and Last Gift with no small paper .
 **Key Terms:** Every Part contains a gift and an address where the next gift is .
-**Key Terms:** 
+
+#### Now we can Discuss about Linked List
+
 
