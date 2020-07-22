@@ -12,5 +12,7 @@ Acctually I wanna tell you a story , A story about two best friend Doll & Rats .
 
 >In the next morning Rats decided to give the first address paper to a little boy and said the little boy to give it to Doll because Rats want to make it surprised .
 
->The boy give the first small paper which contain an address where the first gift is . Doll didn't understand anything but she decided to follow the path , and gone to the address , (Doll is a gift lover ) She was so much Excited when she first saw it . After keeping the gift and reading the next address path , she find the next gift and there also have an address of next gift so he again follow the path and found another gift . After Getting a lot of gifts , when doll reach in the last address , she Was shocked , Speechless . Because in front of her Olaf doll was smiling and Rats was taking video of her Dancing Moment .  
+>The boy give the first small paper which contain an address where the first gift is . Doll didn't understand anything but she decided to follow the path , and gone to the address , (Doll is a gift lover ) She was so much Excited when she first saw it . After keeping the gift and reading the next address path , she find the next gift and there also have an address of next gift so he again follow the path and found another gift . After Getting a lot of gifts , when doll reach in the last address , she Was shocked , Speechless . Because in front of her Olaf doll was smiling and Rats was taking video of her Dancing Moment .
+
+*Key Terms:* First small paper with no gift and Last Gift with no small paper .
 
