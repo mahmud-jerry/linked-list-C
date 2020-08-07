@@ -19,10 +19,15 @@ void printList(Node *root){
         root = root->next ;
     }
 }
+Node* prepend(){
+
+}
 int main(){
-    Node *head , *n1 ;
-    head = create_node(10,NULL,NULL);
-    n1 = create_node(20,NULL,head);
+    Node *head , *n1 ,*n2;
+    n1 = create_node(20,NULL,NULL);
+    head = n1 ;
+    n2  create_node(30,NULL,head);
+
     printList(head);
     return 0;
 }

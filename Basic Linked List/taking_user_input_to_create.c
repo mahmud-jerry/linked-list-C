@@ -18,6 +18,13 @@ void create_node(Node *head){
         create_node(new_node);
     }
 }
+void printList(Node *head){
+    printf("Elements Are :\n");
+    while(head!=0){
+        printf("%d ",head->data);
+        head = head->next ;
+    }
+}
 int main(){
     Node *head ;
     head = (Node*)malloc(sizeof(Node));
